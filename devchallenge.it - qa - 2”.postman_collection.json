@@ -1,0 +1,2327 @@
+{
+	"id": "d3defc19-dc6e-5b29-b867-e684ee0f3245",
+	"name": "devchallenge.it - qa - 2”",
+	"description": "",
+	"order": [],
+	"folders": [
+		{
+			"owner": "2619432",
+			"lastUpdatedBy": "2619432",
+			"lastRevision": 3949493042,
+			"folder": null,
+			"id": "90efc87c-97bb-32f9-6db9-5cb3b3dc0225",
+			"name": "5 day weather forecast",
+			"description": "",
+			"variables": null,
+			"auth": null,
+			"events": null,
+			"order": [],
+			"folders_order": [
+				"89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0"
+			]
+		},
+		{
+			"owner": "2619432",
+			"lastUpdatedBy": "2619432",
+			"lastRevision": 3949538636,
+			"folder": "90efc87c-97bb-32f9-6db9-5cb3b3dc0225",
+			"id": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0",
+			"name": "Call 5 day / 3 hour forecast data",
+			"description": "",
+			"variables": null,
+			"auth": null,
+			"events": null,
+			"order": [
+				"e454f5db-6027-71bb-78e3-b2465cea07d7",
+				"063fb0cc-7791-109b-bac9-d24ccd3e2fe5",
+				"3bc7462a-dfb8-adcf-47e3-04e467579a30",
+				"0196404b-0e99-481e-3edb-21bb2468ce36",
+				"9282267e-a0ca-b3ad-ecb2-2dabef50daf2",
+				"f7e381c5-6c26-da88-4d21-081545f7b531",
+				"2eb0cc8b-19be-ee22-8faa-b587a2562889",
+				"a9937981-2186-fda4-9621-b7f9f21125fe",
+				"63f1d52b-3c9c-afa1-b4fd-9acb345299cd",
+				"971ee77e-1823-f3df-4efc-38278b876f8e",
+				"b9dbcd7f-a334-a453-c3f3-78d77b9695de",
+				"6e78b0f8-a46c-5085-6af3-071f8bdd9c85",
+				"b22e816a-b245-2d63-d679-f64108477f82",
+				"db84b313-d43a-5a5e-94ec-3432ff80f9fa",
+				"480012d7-af01-c4fd-401f-ceef8f5ab1c3",
+				"fbd08a49-726e-3260-f2c8-7a8692315dbe",
+				"1e6ffc3f-55fc-0611-145c-8dc9865cb679",
+				"36e15c78-4476-31e8-34a9-beb63dcf0137"
+			],
+			"folders_order": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"owner": "2619432",
+			"lastUpdatedBy": "2619432",
+			"lastRevision": 3951075855,
+			"folder": "af3be407-c39a-64b5-f332-97b124723473",
+			"id": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"name": "Call current weather data for one location",
+			"description": "",
+			"variables": null,
+			"auth": null,
+			"events": null,
+			"order": [
+				"972de67b-1f7c-ade5-7987-0830d1464412",
+				"f6c2f14c-8891-12c0-a6d2-55c41ff0bc96",
+				"235e70ea-c2da-2f23-d3e6-dc7da75d8933",
+				"63febd3a-63b9-3c01-132f-8719aa101fb6",
+				"1f9e9479-e424-44aa-4b0c-f3a7dae2a2db",
+				"5ecde65c-4a09-e6b5-c890-e523bd3b325c",
+				"06e440fd-b665-2848-85a2-0938797c51ae",
+				"d623e41e-88f8-4518-a895-ee78e67e0975",
+				"6c37e2ad-2c8f-7ea4-1738-cc684b3cae49",
+				"646246ca-635d-c666-6ff5-2261d244a8a8",
+				"3d934950-e007-5584-bbfb-9633e0eb4c63",
+				"15abea40-412e-6c9b-df57-d375e56a7e47",
+				"d41e04c4-a4b5-3d0d-7676-2055fd655ccf",
+				"23c24dfc-950f-4b0a-fcd6-f1802cd9e6c2",
+				"46daabea-ebf4-975b-88ad-73ffe6d7e7d0",
+				"40fe9a70-7b32-a64d-33f3-0c87bd2dec58",
+				"c6a7c003-5d27-9a9c-f2ab-67fdeb794a88",
+				"715b6988-5ac8-0ffd-6dae-39d08a278d8a"
+			],
+			"folders_order": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"owner": "2619432",
+			"lastUpdatedBy": "2619432",
+			"lastRevision": 3949459524,
+			"folder": "af3be407-c39a-64b5-f332-97b124723473",
+			"id": "babf86c7-805d-a386-8b80-683ea19e2019",
+			"name": "Call current weather data for several cities",
+			"description": "",
+			"variables": null,
+			"auth": null,
+			"events": null,
+			"order": [
+				"ba41605b-83a2-99ca-6b42-f3686d817caa",
+				"49931673-1509-1c01-9b28-6f1c521fa772",
+				"52002821-f4f6-4b32-2f50-c484daeefa81"
+			],
+			"folders_order": []
+		},
+		{
+			"owner": "2619432",
+			"lastUpdatedBy": "2619432",
+			"lastRevision": 3951457914,
+			"folder": null,
+			"id": "af3be407-c39a-64b5-f332-97b124723473",
+			"name": "Current weather data",
+			"description": "",
+			"variables": null,
+			"auth": null,
+			"events": null,
+			"order": [],
+			"folders_order": [
+				"babf86c7-805d-a386-8b80-683ea19e2019",
+				"96412a4c-c6fb-a11a-5bf7-63e4001ba4f8"
+			]
+		},
+		{
+			"owner": "2619432",
+			"lastUpdatedBy": "2619432",
+			"lastRevision": 3963680498,
+			"folder": null,
+			"id": "dffd45c1-b855-de98-2fbf-e6cf8dd185a8",
+			"name": "Ultraviolet index (beta)",
+			"description": "",
+			"variables": null,
+			"auth": null,
+			"events": null,
+			"order": [
+				"76e87396-3eae-bb26-112f-a575de2d11cc",
+				"65b479c7-c825-03ff-752a-43712947a232",
+				"9d949422-927a-238f-89ba-645acfd98245",
+				"0cb48d88-1575-4472-61ff-7f6a90caf745",
+				"eeac7d90-2158-cdb7-787f-d6ed2df34402",
+				"213cacc7-64ab-4376-b954-c2f29b85fffe"
+			],
+			"folders_order": []
+		}
+	],
+	"folders_order": [
+		"af3be407-c39a-64b5-f332-97b124723473",
+		"90efc87c-97bb-32f9-6db9-5cb3b3dc0225",
+		"dffd45c1-b855-de98-2fbf-e6cf8dd185a8"
+	],
+	"timestamp": 0,
+	"owner": "2619432",
+	"public": false,
+	"requests": [
+		{
+			"id": "0196404b-0e99-481e-3edb-21bb2468ce36",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?q={{cityName}},{{countryCode}}",
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0",
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "{{cityName}},{{countryCode}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\nvar expectedCityId = postman.getGlobalVariable(\"id\");\ntests[\"Verify city id\"] = jsonData.id === expectedCityId;\n\nvar expectedCityName = postman.getGlobalVariable(\"city\");\ntests[\"Verify city Name\"] = jsonData.name === expectedCityName;\n\nvar expectedCountry = postman.getGlobalVariable(\"country\");\ntests[\"Verify Country code\"] = jsonData.sys.country === expectedCountry;\n\nvar expectedCityLon = postman.getGlobalVariable(\"lon\");\ntests[\"Verify city lontitude\"] = jsonData.coord.lon === expectedCityLon;\n\nvar expectedCityLat = postman.getGlobalVariable(\"lat\");\ntests[\"Verify city lat\"] =  jsonData.coord.lat === expectedCityLat;\n\nvar expectedCityWeather = postman.getGlobalVariable(\"weather\");\ntests[\"Verify city weather\"] = jsonData.weather === expectedCityWeather;\n\nvar expectedCityMain = postman.getGlobalVariable(\"main\");\ntests[\"Verify city Main\"] = jsonData.main === expectedCityMain;\n\nvar expectedCityWind = postman.getGlobalVariable(\"wind\");\ntests[\"Verify city Wind\"] = jsonData.wind === expectedCityWind;\n\nvar expectedCityClounds = postman.getGlobalVariable(\"clouds\");\ntests[\"Verify city Clouds\"] = jsonData.clouds === expectedCityClounds;",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528024009077,
+			"name": "By city name and country",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "063fb0cc-7791-109b-bac9-d24ccd3e2fe5",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?q=Khpppp",
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0",
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "Khpppp",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528023196906,
+			"name": "By city name which not exist",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"id": "06e440fd-b665-2848-85a2-0938797c51ae",
+			"name": "By city name and country(invalid name )",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 404;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"tests[\"Check error message\"] = jsonData.message === \"city not found\";",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/weather?q=test,{{countryCode}}",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "test,{{countryCode}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "0cb48d88-1575-4472-61ff-7f6a90caf745",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/uvi?lat=&lon=",
+			"folder": "dffd45c1-b855-de98-2fbf-e6cf8dd185a8",
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 400;\n\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528024902770,
+			"name": "Call current UV data for one location Empty fields",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"id": "15abea40-412e-6c9b-df57-d375e56a7e47",
+			"name": "By geographic coordinates",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 200;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"var expectedCityId = postman.getGlobalVariable(\"id\");",
+							"tests[\"Verify city id\"] = jsonData.id === expectedCityId;",
+							"",
+							"var expectedCityName = postman.getGlobalVariable(\"city\");",
+							"tests[\"Verify city Name\"] = jsonData.name === expectedCityName;",
+							"",
+							"var expectedCountry = postman.getGlobalVariable(\"country\");",
+							"tests[\"Verify Country code\"] = jsonData.sys.country === expectedCountry;",
+							"",
+							"var expectedCityLon = postman.getGlobalVariable(\"lon\");",
+							"tests[\"Verify city lontitude\"] = jsonData.coord.lon === expectedCityLon;",
+							"",
+							"var expectedCityLat = postman.getGlobalVariable(\"lat\");",
+							"tests[\"Verify city lat\"] =  jsonData.coord.lat === expectedCityLat;",
+							"",
+							"var expectedCityWeather = postman.getGlobalVariable(\"weather\");",
+							"tests[\"Verify city weather\"] = jsonData.weather === expectedCityWeather;",
+							"",
+							"var expectedCityMain = postman.getGlobalVariable(\"main\");",
+							"tests[\"Verify city Main\"] = jsonData.main === expectedCityMain;",
+							"",
+							"var expectedCityWind = postman.getGlobalVariable(\"wind\");",
+							"tests[\"Verify city Wind\"] = jsonData.wind === expectedCityWind;",
+							"",
+							"var expectedCityClounds = postman.getGlobalVariable(\"clouds\");",
+							"tests[\"Verify city Clouds\"] = jsonData.clouds === expectedCityClounds;"
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/weather?lat={{lat}}&lon={{lon}}",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\nvar expectedCityId = postman.getGlobalVariable(\"id\");\ntests[\"Verify city id\"] = jsonData.id === expectedCityId;\n\nvar expectedCityName = postman.getGlobalVariable(\"city\");\ntests[\"Verify city Name\"] = jsonData.name === expectedCityName;\n\nvar expectedCountry = postman.getGlobalVariable(\"country\");\ntests[\"Verify Country code\"] = jsonData.sys.country === expectedCountry;\n\nvar expectedCityLon = postman.getGlobalVariable(\"lon\");\ntests[\"Verify city lontitude\"] = jsonData.coord.lon === expectedCityLon;\n\nvar expectedCityLat = postman.getGlobalVariable(\"lat\");\ntests[\"Verify city lat\"] =  jsonData.coord.lat === expectedCityLat;\n\nvar expectedCityWeather = postman.getGlobalVariable(\"weather\");\ntests[\"Verify city weather\"] = jsonData.weather === expectedCityWeather;\n\nvar expectedCityMain = postman.getGlobalVariable(\"main\");\ntests[\"Verify city Main\"] = jsonData.main === expectedCityMain;\n\nvar expectedCityWind = postman.getGlobalVariable(\"wind\");\ntests[\"Verify city Wind\"] = jsonData.wind === expectedCityWind;\n\nvar expectedCityClounds = postman.getGlobalVariable(\"clouds\");\ntests[\"Verify city Clouds\"] = jsonData.clouds === expectedCityClounds;",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "{{lat}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "{{lon}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"responses": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "1e6ffc3f-55fc-0611-145c-8dc9865cb679",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?zip=123123434534534,{{country}}",
+			"queryParams": [
+				{
+					"key": "zip",
+					"value": "123123434534534,{{country}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245",
+			"data": null,
+			"dataMode": "params",
+			"name": "By ZIP code (city not found)",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1528024204836,
+			"version": 2,
+			"responses": [],
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0"
+		},
+		{
+			"id": "1f9e9479-e424-44aa-4b0c-f3a7dae2a2db",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?q={{cityName}},US",
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "{{cityName}},US",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528023512368,
+			"name": "By city name and country not match",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245",
+			"responses": []
+		},
+		{
+			"folder": "dffd45c1-b855-de98-2fbf-e6cf8dd185a8",
+			"id": "213cacc7-64ab-4376-b954-c2f29b85fffe",
+			"name": "Call historical UV data for one location",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 200;",
+							"var jsonData = JSON.parse(responseBody);"
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/uvi/history?lat=37.75&lon=-122.37&start=1498049953&end=1498481991",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "37.75",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "-122.37",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "start",
+					"value": "1498049953",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "end",
+					"value": "1498481991",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"id": "235e70ea-c2da-2f23-d3e6-dc7da75d8933",
+			"name": "By city name which Empty",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 400;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"tests[\"Check error message\"] = jsonData.message === \"Nothing to geocode\";",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/weather?q=",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 400;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"Nothing to geocode\";\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"id": "23c24dfc-950f-4b0a-fcd6-f1802cd9e6c2",
+			"name": "By geographic coordinates NULL",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 400;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"tests[\"Check error message\"] = jsonData.message === \"undefined is not a float\";",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/weather?lat=&lon=",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 400;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"undefined is not a float\";\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "2eb0cc8b-19be-ee22-8faa-b587a2562889",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?q=test,87678678",
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0",
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "test,87678678",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528023208981,
+			"name": "By city name and country(invalid name )",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "36e15c78-4476-31e8-34a9-beb63dcf0137",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?zip=61129,n",
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"queryParams": [
+				{
+					"key": "zip",
+					"value": "61129,n",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528024215040,
+			"name": "By ZIP code (city not found) incorrect country",
+			"description": "",
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245",
+			"responses": []
+		},
+		{
+			"id": "3bc7462a-dfb8-adcf-47e3-04e467579a30",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?q=",
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0",
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 400;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"Nothing to geocode\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528023194738,
+			"name": "By city name which Empty",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "3d934950-e007-5584-bbfb-9633e0eb4c63",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?id=",
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"queryParams": [
+				{
+					"key": "id",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 400;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"Nothing to geocode\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528023083168,
+			"name": "By city ID Empty",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"id": "40fe9a70-7b32-a64d-33f3-0c87bd2dec58",
+			"name": "By ZIP code NULL",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 400;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"tests[\"Check error message\"] = jsonData.message === \"invalid zip code\";",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/weather?zip=,{{country}}",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 400;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"invalid zip code\";\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "zip",
+					"value": ",{{country}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "46daabea-ebf4-975b-88ad-73ffe6d7e7d0",
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"name": "By ZIP code",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 200;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"var expectedCityId = postman.getGlobalVariable(\"id\");",
+							"tests[\"Verify city id\"] = jsonData.id === expectedCityId;",
+							"",
+							"var expectedCityName = postman.getGlobalVariable(\"city\");",
+							"tests[\"Verify city Name\"] = jsonData.name === expectedCityName;",
+							"",
+							"var expectedCountry = postman.getGlobalVariable(\"country\");",
+							"tests[\"Verify Country code\"] = jsonData.sys.country === expectedCountry;",
+							"",
+							"var expectedCityLon = postman.getGlobalVariable(\"lon\");",
+							"tests[\"Verify city lontitude\"] = jsonData.coord.lon === expectedCityLon;",
+							"",
+							"var expectedCityLat = postman.getGlobalVariable(\"lat\");",
+							"tests[\"Verify city lat\"] =  jsonData.coord.lat === expectedCityLat;",
+							"",
+							"var expectedCityWeather = postman.getGlobalVariable(\"weather\");",
+							"tests[\"Verify city weather\"] = jsonData.weather === expectedCityWeather;",
+							"",
+							"var expectedCityMain = postman.getGlobalVariable(\"main\");",
+							"tests[\"Verify city Main\"] = jsonData.main === expectedCityMain;",
+							"",
+							"var expectedCityWind = postman.getGlobalVariable(\"wind\");",
+							"tests[\"Verify city Wind\"] = jsonData.wind === expectedCityWind;",
+							"",
+							"var expectedCityClounds = postman.getGlobalVariable(\"clouds\");",
+							"tests[\"Verify city Clouds\"] = jsonData.clouds === expectedCityClounds;"
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/weather?zip=61129,{{country}}",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\nvar expectedCityId = postman.getGlobalVariable(\"id\");\ntests[\"Verify city id\"] = jsonData.id === expectedCityId;\n\nvar expectedCityName = postman.getGlobalVariable(\"city\");\ntests[\"Verify city Name\"] = jsonData.name === expectedCityName;\n\nvar expectedCountry = postman.getGlobalVariable(\"country\");\ntests[\"Verify Country code\"] = jsonData.sys.country === expectedCountry;\n\nvar expectedCityLon = postman.getGlobalVariable(\"lon\");\ntests[\"Verify city lontitude\"] = jsonData.coord.lon === expectedCityLon;\n\nvar expectedCityLat = postman.getGlobalVariable(\"lat\");\ntests[\"Verify city lat\"] =  jsonData.coord.lat === expectedCityLat;\n\nvar expectedCityWeather = postman.getGlobalVariable(\"weather\");\ntests[\"Verify city weather\"] = jsonData.weather === expectedCityWeather;\n\nvar expectedCityMain = postman.getGlobalVariable(\"main\");\ntests[\"Verify city Main\"] = jsonData.main === expectedCityMain;\n\nvar expectedCityWind = postman.getGlobalVariable(\"wind\");\ntests[\"Verify city Wind\"] = jsonData.wind === expectedCityWind;\n\nvar expectedCityClounds = postman.getGlobalVariable(\"clouds\");\ntests[\"Verify city Clouds\"] = jsonData.clouds === expectedCityClounds;",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "zip",
+					"value": "61129,{{country}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"responses": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "480012d7-af01-c4fd-401f-ceef8f5ab1c3",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?zip=61129,{{country}}",
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"queryParams": [
+				{
+					"key": "zip",
+					"value": "61129,{{country}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\nvar expectedCityId = postman.getGlobalVariable(\"id\");\ntests[\"Verify city id\"] = jsonData.id === expectedCityId;\n\nvar expectedCityName = postman.getGlobalVariable(\"city\");\ntests[\"Verify city Name\"] = jsonData.name === expectedCityName;\n\nvar expectedCountry = postman.getGlobalVariable(\"country\");\ntests[\"Verify Country code\"] = jsonData.sys.country === expectedCountry;\n\nvar expectedCityLon = postman.getGlobalVariable(\"lon\");\ntests[\"Verify city lontitude\"] = jsonData.coord.lon === expectedCityLon;\n\nvar expectedCityLat = postman.getGlobalVariable(\"lat\");\ntests[\"Verify city lat\"] =  jsonData.coord.lat === expectedCityLat;\n\nvar expectedCityWeather = postman.getGlobalVariable(\"weather\");\ntests[\"Verify city weather\"] = jsonData.weather === expectedCityWeather;\n\nvar expectedCityMain = postman.getGlobalVariable(\"main\");\ntests[\"Verify city Main\"] = jsonData.main === expectedCityMain;\n\nvar expectedCityWind = postman.getGlobalVariable(\"wind\");\ntests[\"Verify city Wind\"] = jsonData.wind === expectedCityWind;\n\nvar expectedCityClounds = postman.getGlobalVariable(\"clouds\");\ntests[\"Verify city Clouds\"] = jsonData.clouds === expectedCityClounds;",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528024176184,
+			"name": "By ZIP code",
+			"description": "",
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245",
+			"responses": []
+		},
+		{
+			"folder": "babf86c7-805d-a386-8b80-683ea19e2019",
+			"id": "49931673-1509-1c01-9b28-6f1c521fa772",
+			"name": "Cities within a rectangle zone copy",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 200;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"postman.setGlobalVariable(\"cnt\", jsonData.cnt);",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "http://api.openweathermap.org/data/2.5/find?lat=55.5&lon=37.5&cnt=10",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\npostman.setGlobalVariable(\"cnt\", jsonData.cnt);\n\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "55.5",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "37.5",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "cnt",
+					"value": "10",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "babf86c7-805d-a386-8b80-683ea19e2019",
+			"id": "52002821-f4f6-4b32-2f50-c484daeefa81",
+			"name": "Call for several city IDs",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 200;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"postman.setGlobalVariable(\"cnt\", jsonData.cnt);",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "http://api.openweathermap.org/data/2.5/find?lat=55.5&lon=37.5&cnt=10",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\npostman.setGlobalVariable(\"cnt\", jsonData.cnt);\n\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "55.5",
+					"equals": true,
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "37.5",
+					"equals": true,
+					"enabled": true
+				},
+				{
+					"key": "cnt",
+					"value": "10",
+					"equals": true,
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "5ecde65c-4a09-e6b5-c890-e523bd3b325c",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?q=,",
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"queryParams": [
+				{
+					"key": "q",
+					"value": ",",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528023551902,
+			"name": "By city name and country Empty",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245",
+			"responses": []
+		},
+		{
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0",
+			"id": "63f1d52b-3c9c-afa1-b4fd-9acb345299cd",
+			"name": "By city ID",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 200;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"tests[\"Your test name\"] = jsonData.city.id === 706483;",
+							"tests[\"Verify city id is present\"] = postman.getResponseHeader(\"cityId\");",
+							"",
+							"",
+							"var expectedCityId = postman.getGlobalVariable(\"cityId\");",
+							"tests[\"Verify city id\"] = jsonData.city.id === expectedCityId;",
+							"",
+							"var expectedCityName = postman.getGlobalVariable(\"cityName\");",
+							"tests[\"Verify city Name\"] = jsonData.city.name === expectedCityName;",
+							"",
+							"var expectedCityLon = postman.getGlobalVariable(\"lon\");",
+							"tests[\"Verify city lon\"] = jsonData.city.coord.lon === expectedCityLon;",
+							"",
+							"var expectedCityLat = postman.getGlobalVariable(\"lat\");",
+							"tests[\"Verify city lat\"] = jsonData.city.coord.lat === expectedCityLat;",
+							"",
+							"",
+							"",
+							"",
+							"",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/forecast?id={{cityId}}",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Your test name\"] = jsonData.city.id === 706483;\ntests[\"Verify city id is present\"] = postman.getResponseHeader(\"cityId\");\n\n\nvar expectedCityId = postman.getGlobalVariable(\"cityId\");\ntests[\"Verify city id\"] = jsonData.city.id === expectedCityId;\n\nvar expectedCityName = postman.getGlobalVariable(\"cityName\");\ntests[\"Verify city Name\"] = jsonData.city.name === expectedCityName;\n\nvar expectedCityLon = postman.getGlobalVariable(\"lon\");\ntests[\"Verify city lon\"] = jsonData.city.coord.lon === expectedCityLon;\n\nvar expectedCityLat = postman.getGlobalVariable(\"lat\");\ntests[\"Verify city lat\"] = jsonData.city.coord.lat === expectedCityLat;\n\n\n\n\n\n\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "id",
+					"value": "{{cityId}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "63febd3a-63b9-3c01-132f-8719aa101fb6",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?q={{cityName}},{{countryCode}}",
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "{{cityName}},{{countryCode}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\nvar expectedCityId = postman.getGlobalVariable(\"id\");\ntests[\"Verify city id\"] = jsonData.id === expectedCityId;\n\nvar expectedCityName = postman.getGlobalVariable(\"city\");\ntests[\"Verify city Name\"] = jsonData.name === expectedCityName;\n\nvar expectedCountry = postman.getGlobalVariable(\"country\");\ntests[\"Verify Country code\"] = jsonData.sys.country === expectedCountry;\n\nvar expectedCityLon = postman.getGlobalVariable(\"lon\");\ntests[\"Verify city lontitude\"] = jsonData.coord.lon === expectedCityLon;\n\nvar expectedCityLat = postman.getGlobalVariable(\"lat\");\ntests[\"Verify city lat\"] =  jsonData.coord.lat === expectedCityLat;\n\nvar expectedCityWeather = postman.getGlobalVariable(\"weather\");\ntests[\"Verify city weather\"] = jsonData.weather === expectedCityWeather;\n\nvar expectedCityMain = postman.getGlobalVariable(\"main\");\ntests[\"Verify city Main\"] = jsonData.main === expectedCityMain;\n\nvar expectedCityWind = postman.getGlobalVariable(\"wind\");\ntests[\"Verify city Wind\"] = jsonData.wind === expectedCityWind;\n\nvar expectedCityClounds = postman.getGlobalVariable(\"clouds\");\ntests[\"Verify city Clouds\"] = jsonData.clouds === expectedCityClounds;",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1527450904690,
+			"name": "By city name and country",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245",
+			"responses": []
+		},
+		{
+			"id": "646246ca-635d-c666-6ff5-2261d244a8a8",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?id=789",
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"queryParams": [
+				{
+					"key": "id",
+					"value": "789",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528023048193,
+			"name": "By city ID invalid id",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "65b479c7-c825-03ff-752a-43712947a232",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/uvi?lat=3464564564564564564564.45645645&lon=-122.37456456456",
+			"folder": "dffd45c1-b855-de98-2fbf-e6cf8dd185a8",
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "3464564564564564564564.45645645",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "-122.37456456456",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\npostman.setGlobalVariable(\"date_iso\", jsonData.date_iso);\npostman.setGlobalVariable(\"date\", jsonData.date);\npostman.setGlobalVariable(\"lon\", jsonData.lon);\npostman.setGlobalVariable(\"lat\", jsonData.lat);\npostman.setGlobalVariable(\"value\", jsonData.value);\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528024970746,
+			"name": "Call current UV data for one location Not Exist",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "6c37e2ad-2c8f-7ea4-1738-cc684b3cae49",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?id={{cityId}}",
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"queryParams": [
+				{
+					"key": "id",
+					"value": "{{cityId}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\nvar expectedCityId = postman.getGlobalVariable(\"id\");\ntests[\"Verify city id\"] = jsonData.id === expectedCityId;\n\nvar expectedCityName = postman.getGlobalVariable(\"city\");\ntests[\"Verify city Name\"] = jsonData.name === expectedCityName;\n\nvar expectedCountry = postman.getGlobalVariable(\"country\");\ntests[\"Verify Country code\"] = jsonData.sys.country === expectedCountry;\n\nvar expectedCityLon = postman.getGlobalVariable(\"lon\");\ntests[\"Verify city lontitude\"] = jsonData.coord.lon === expectedCityLon;\n\nvar expectedCityLat = postman.getGlobalVariable(\"lat\");\ntests[\"Verify city lat\"] =  jsonData.coord.lat === expectedCityLat;\n\nvar expectedCityWeather = postman.getGlobalVariable(\"weather\");\ntests[\"Verify city weather\"] = jsonData.weather === expectedCityWeather;\n\nvar expectedCityMain = postman.getGlobalVariable(\"main\");\ntests[\"Verify city Main\"] = jsonData.main === expectedCityMain;\n\nvar expectedCityWind = postman.getGlobalVariable(\"wind\");\ntests[\"Verify city Wind\"] = jsonData.wind === expectedCityWind;\n\nvar expectedCityClounds = postman.getGlobalVariable(\"clouds\");\ntests[\"Verify city Clouds\"] = jsonData.clouds === expectedCityClounds;",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1527450917997,
+			"name": "By city ID",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245",
+			"responses": []
+		},
+		{
+			"id": "6e78b0f8-a46c-5085-6af3-071f8bdd9c85",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?lat={{lat}}&lon={{lon}}",
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0",
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "{{lat}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "{{lon}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\nvar expectedCityId = postman.getGlobalVariable(\"id\");\ntests[\"Verify city id\"] = jsonData.id === expectedCityId;\n\nvar expectedCityName = postman.getGlobalVariable(\"city\");\ntests[\"Verify city Name\"] = jsonData.name === expectedCityName;\n\nvar expectedCountry = postman.getGlobalVariable(\"country\");\ntests[\"Verify Country code\"] = jsonData.sys.country === expectedCountry;\n\nvar expectedCityLon = postman.getGlobalVariable(\"lon\");\ntests[\"Verify city lontitude\"] = jsonData.coord.lon === expectedCityLon;\n\nvar expectedCityLat = postman.getGlobalVariable(\"lat\");\ntests[\"Verify city lat\"] =  jsonData.coord.lat === expectedCityLat;\n\nvar expectedCityWeather = postman.getGlobalVariable(\"weather\");\ntests[\"Verify city weather\"] = jsonData.weather === expectedCityWeather;\n\nvar expectedCityMain = postman.getGlobalVariable(\"main\");\ntests[\"Verify city Main\"] = jsonData.main === expectedCityMain;\n\nvar expectedCityWind = postman.getGlobalVariable(\"wind\");\ntests[\"Verify city Wind\"] = jsonData.wind === expectedCityWind;\n\nvar expectedCityClounds = postman.getGlobalVariable(\"clouds\");\ntests[\"Verify city Clouds\"] = jsonData.clouds === expectedCityClounds;",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528023783802,
+			"name": "By geographic coordinates",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245",
+			"responses": []
+		},
+		{
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"id": "715b6988-5ac8-0ffd-6dae-39d08a278d8a",
+			"name": "By ZIP code (city not found) incorrect country",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 404;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"tests[\"Check error message\"] = jsonData.message === \"city not found\";",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/weather?zip=61129,n",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "zip",
+					"value": "61129,n",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "dffd45c1-b855-de98-2fbf-e6cf8dd185a8",
+			"id": "76e87396-3eae-bb26-112f-a575de2d11cc",
+			"name": "Call current UV data for one location",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 200;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"postman.setGlobalVariable(\"date_iso\", jsonData.date_iso);",
+							"postman.setGlobalVariable(\"date\", jsonData.date);",
+							"postman.setGlobalVariable(\"lon\", jsonData.lon);",
+							"postman.setGlobalVariable(\"lat\", jsonData.lat);",
+							"postman.setGlobalVariable(\"value\", jsonData.value);",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/uvi?lat=37.75&lon=-122.37",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\npostman.setGlobalVariable(\"date_iso\", jsonData.date_iso);\npostman.setGlobalVariable(\"date\", jsonData.date);\npostman.setGlobalVariable(\"lon\", jsonData.lon);\npostman.setGlobalVariable(\"lat\", jsonData.lat);\npostman.setGlobalVariable(\"value\", jsonData.value);\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "37.75",
+					"equals": true,
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "-122.37",
+					"equals": true,
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "9282267e-a0ca-b3ad-ecb2-2dabef50daf2",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?q=,",
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0",
+			"queryParams": [
+				{
+					"key": "q",
+					"value": ",",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528024022804,
+			"name": "By city name and country Empty",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245",
+			"responses": []
+		},
+		{
+			"id": "971ee77e-1823-f3df-4efc-38278b876f8e",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?id=789",
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0",
+			"queryParams": [
+				{
+					"key": "id",
+					"value": "789",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528023254831,
+			"name": "By city ID invalid id",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"id": "972de67b-1f7c-ade5-7987-0830d1464412",
+			"name": "By city name",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 200;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"postman.setGlobalVariable(\"cityId\", jsonData.id);",
+							"postman.setGlobalVariable(\"cityName\", jsonData.name);",
+							"postman.setGlobalVariable(\"countryCode\", jsonData.sys.country);",
+							"postman.setGlobalVariable(\"lon\", jsonData.coord.lon);",
+							"postman.setGlobalVariable(\"lat\", jsonData.coord.lat);",
+							"postman.setGlobalVariable(\"weather\", jsonData.weather);",
+							"postman.setGlobalVariable(\"main\", jsonData.main);",
+							"postman.setGlobalVariable(\"wind\", jsonData.wind);",
+							"postman.setGlobalVariable(\"clouds\", jsonData.clouds);"
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/weather?q=Kharkiv",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\npostman.setGlobalVariable(\"cityId\", jsonData.id);\npostman.setGlobalVariable(\"cityName\", jsonData.name);\npostman.setGlobalVariable(\"countryCode\", jsonData.sys.country);\npostman.setGlobalVariable(\"lon\", jsonData.coord.lon);\npostman.setGlobalVariable(\"lat\", jsonData.coord.lat);\npostman.setGlobalVariable(\"weather\", jsonData.weather);\npostman.setGlobalVariable(\"main\", jsonData.main);\npostman.setGlobalVariable(\"wind\", jsonData.wind);\npostman.setGlobalVariable(\"clouds\", jsonData.clouds);",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "Kharkiv",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"responses": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "9d949422-927a-238f-89ba-645acfd98245",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/uvi?lat=ertert&lon=ertert",
+			"folder": "dffd45c1-b855-de98-2fbf-e6cf8dd185a8",
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "ertert",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "ertert",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code ===400;\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528024896437,
+			"name": "Call current UV data for one invalid syntax",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "a9937981-2186-fda4-9621-b7f9f21125fe",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?q={{cityName}},QQQii",
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0",
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "{{cityName}},QQQii",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528023925188,
+			"name": "By city name and country(invalid code )",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "b22e816a-b245-2d63-d679-f64108477f82",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?lat=&lon=",
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 400;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"undefined is not a float\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528023916537,
+			"name": "By geographic coordinates NULL",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "b9dbcd7f-a334-a453-c3f3-78d77b9695de",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?id=",
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0",
+			"queryParams": [
+				{
+					"key": "id",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 400;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"Nothing to geocode\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528023776541,
+			"name": "By city ID Empty",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "babf86c7-805d-a386-8b80-683ea19e2019",
+			"id": "ba41605b-83a2-99ca-6b42-f3686d817caa",
+			"name": "Cities within a rectangle zone",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 200;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"postman.setGlobalVariable(\"cnt\", jsonData.cnt);",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "http://api.openweathermap.org/data/2.5/box/city?bbox=12,32,15,37,10",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\npostman.setGlobalVariable(\"cnt\", jsonData.cnt);\n\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "bbox",
+					"value": "12,32,15,37,10",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"id": "c6a7c003-5d27-9a9c-f2ab-67fdeb794a88",
+			"name": "By ZIP code (city not found)",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 404;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"tests[\"Check error message\"] = jsonData.message === \"city not found\";",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/weather?zip=123123434534534,{{country}}",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "zip",
+					"value": "123123434534534,{{country}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"id": "d41e04c4-a4b5-3d0d-7676-2055fd655ccf",
+			"name": "By geographic coordinates not exist",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 400;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/weather?lat=0.00000006&lon=0.0000-05",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 400;\nvar jsonData = JSON.parse(responseBody);\n\n\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "0.00000006",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "0.0000-05",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "d623e41e-88f8-4518-a895-ee78e67e0975",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?q={{cityName}},QQQ55555",
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "{{cityName}},QQQ55555",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528025801365,
+			"name": "By city name and country(invalid code )",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "db84b313-d43a-5a5e-94ec-3432ff80f9fa",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?lat=0.00000006&lon=0.0000-05",
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "0.00000006",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "0.0000-05",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 400;\nvar jsonData = JSON.parse(responseBody);\n\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528023801952,
+			"name": "By geographic coordinates not exist",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0",
+			"id": "e454f5db-6027-71bb-78e3-b2465cea07d7",
+			"name": "By city name",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 200;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"",
+							"            ",
+							"postman.setGlobalVariable(\"cityId\", jsonData.city.id);",
+							"postman.setGlobalVariable(\"cityName\", jsonData.city.name);",
+							"postman.setGlobalVariable(\"lon\", jsonData.city.coord.lon);",
+							"postman.setGlobalVariable(\"lat\", jsonData.city.coord.lat);",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/forecast?q=Kharkiv,ua",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);\n\n\n            \npostman.setGlobalVariable(\"cityId\", jsonData.city.id);\npostman.setGlobalVariable(\"cityName\", jsonData.city.name);\npostman.setGlobalVariable(\"lon\", jsonData.city.coord.lon);\npostman.setGlobalVariable(\"lat\", jsonData.city.coord.lat);\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "Kharkiv,ua",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "dffd45c1-b855-de98-2fbf-e6cf8dd185a8",
+			"id": "eeac7d90-2158-cdb7-787f-d6ed2df34402",
+			"name": "Call forecast UV data for one location",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 200;",
+							"var jsonData = JSON.parse(responseBody);"
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/uvi/forecast?lat={{lat}}&lon={{lon}}",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 200;\nvar jsonData = JSON.parse(responseBody);",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "lat",
+					"value": "{{lat}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "lon",
+					"value": "{{lon}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"folder": "96412a4c-c6fb-a11a-5bf7-63e4001ba4f8",
+			"id": "f6c2f14c-8891-12c0-a6d2-55c41ff0bc96",
+			"name": "By city name which not exist",
+			"dataMode": "params",
+			"data": null,
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status response is OK\"] = responseCode.code === 404;",
+							"var jsonData = JSON.parse(responseBody);",
+							"",
+							"tests[\"Check error message\"] = jsonData.message === \"city not found\";",
+							""
+						]
+					}
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": null,
+			"variables": null,
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "api.openweathermap.org/data/2.5/weather?q=Khpppp",
+			"preRequestScript": null,
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": null,
+			"helperAttributes": null,
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "Khpppp",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245"
+		},
+		{
+			"id": "f7e381c5-6c26-da88-4d21-081545f7b531",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?q={{cityName}},US",
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0",
+			"queryParams": [
+				{
+					"key": "q",
+					"value": "{{cityName}},US",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 404;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"city not found\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1528024028740,
+			"name": "By city name and country not match",
+			"description": null,
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245",
+			"responses": []
+		},
+		{
+			"id": "fbd08a49-726e-3260-f2c8-7a8692315dbe",
+			"headers": "x-api-key: 50d9e37000c0112e95e0719725e56bfe\n",
+			"headerData": [
+				{
+					"key": "x-api-key",
+					"value": "50d9e37000c0112e95e0719725e56bfe",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "api.openweathermap.org/data/2.5/weather?zip=,{{country}}",
+			"queryParams": [
+				{
+					"key": "zip",
+					"value": ",{{country}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "d3defc19-dc6e-5b29-b867-e684ee0f3245",
+			"data": null,
+			"dataMode": "params",
+			"name": "By ZIP code NULL",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1528024196539,
+			"version": 2,
+			"responses": [],
+			"tests": "tests[\"Status response is OK\"] = responseCode.code === 400;\nvar jsonData = JSON.parse(responseBody);\n\ntests[\"Check error message\"] = jsonData.message === \"invalid zip code\";\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "89ecefb4-3d35-4e46-ac67-9d7a3dfe89e0"
+		}
+	]
+}
